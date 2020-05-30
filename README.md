@@ -12,6 +12,7 @@
 **Estilo/género:**  Libro interactivo
 
 **Logotipo** : Es el del proyecto al que pertenece la animación: "Por un mundo perfecto".
+![logo](https://github.com/enriquemed/enriquemed.github.io/blob/master/medios/Logo.png)
 
 **Resolución:** 800x600px tamaño fijo
 
