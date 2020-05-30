@@ -49,8 +49,7 @@ El esquema de la lección es:
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![ESQUEMA](https://github.com/enriquemed/enriquemed.github.io/blob/master/Untitled%20Diagram.jpg)
 
 
 
@@ -59,44 +58,26 @@ El esquema de la lección es:
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Hacer un contenido más interactivo que un texto para que las personas lo encuentren más atractivo.
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
+Orientado a personas mayores de 12 años más o menos.
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
+He introducido movimientos de ilustraciones y preguntas para mantener la atención. Además hay pequeños momentos cómicos; uno de ellos usa un ejemplo para hacer una escena de huida que creo que sirve para recordar lo que se quiere enseñar.
 
 ### Etapa 3: Problemas identificados
 
@@ -118,13 +99,11 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- https://porunmundoperfecto.com
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  https://patrickdearteaga.com/es/index-es/
 
 **Herramientas utilizadas**
 
@@ -137,4 +116,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2020
