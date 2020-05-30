@@ -37,8 +37,12 @@
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En primer lugar hay una introducción que lleva al menú. Desde ahí se puede empezar la lección, ver la galería o los créditos.
 
+El esquema de la lección es:
+- Una pregunta para reflexionar sobre qué es la lógica. Si se responde correctamente se puede avanzar a la siguiente lección o seguir.
+- Explicación del área del que se ocupa la lógica.
+- Ejemplos de razonamientos.
 
 
 ### 2.2. Esquema de navegación 
