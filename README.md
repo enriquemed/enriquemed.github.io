@@ -1,41 +1,32 @@
-## Acercamiento a la lógica
-
-
-
-
 # 1. Datos 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Acercamiento a la lógica
+**Web:**    enriquemed.github.io
 
-**Web:**   (url github.io)
+**Autor:**  Enrique Medina Ocaña
 
-**Autor:**  (Nombre apellidos)
+**Resumen** : Primera lección de una serie que enseña lo más básico sobre lógica. Lo principal de esta primera lección es aprender a distinguir lo que es la lógica de lo que no lo es.
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Estilo/género:**  Libro interactivo
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Logotipo** : Es el del proyecto al que pertenece la animación: "Por un mundo perfecto".
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 800x600px tamaño fijo
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**   Google Chrome
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
-- Github:
-- Twitter
-- Instagram
+-Web: porunmundoperfecto.com
+- Instagram: porunmp
 
 
 
