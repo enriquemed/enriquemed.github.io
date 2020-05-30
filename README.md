@@ -103,7 +103,7 @@ He introducido movimientos de ilustraciones y preguntas para mantener la atenci√
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  https://patrickdearteaga.com/es/index-es/
+* M√∫sica:  https://patrickdearteaga.com/es/index-es/
 
 **Herramientas utilizadas**
 
