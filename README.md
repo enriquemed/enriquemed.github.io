@@ -9,7 +9,7 @@
 
 **Resumen** : Primera lección de una serie que enseña lo más básico sobre lógica. Lo principal de esta primera lección es aprender a distinguir lo que es la lógica de lo que no lo es.
 
-**Estilo/género:**  Libro interactivo
+**Estilo/género:**  Didáctico
 
 **Logotipo** : Es el del proyecto al que pertenece la animación: "Por un mundo perfecto".
 ![logo](https://github.com/enriquemed/enriquemed.github.io/blob/master/medios/Logo.png)
@@ -18,7 +18,7 @@
 
 **Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 
+**Tamaño proyecto:** 14,1MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -79,15 +79,11 @@ Orientado a personas mayores de 12 años más o menos.
 
 He introducido movimientos de ilustraciones y preguntas para mantener la atención. Además hay pequeños momentos cómicos; uno de ellos usa un ejemplo para hacer una escena de huida que creo que sirve para recordar lo que se quiere enseñar.
 
-### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Creo que el resultado es bueno y que se podría mejorar la parte del entretenimiento añadiendo más dibujos y usando vídeos y audio en vez de texto.
 
 
 
@@ -108,7 +104,7 @@ He introducido movimientos de ilustraciones y preguntas para mantener la atenci�
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop CS6
 
 
 
