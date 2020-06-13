@@ -20,7 +20,7 @@
 
 **Tamaño proyecto:** 14,1MB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 **Fecha** : 10/06/2020
 
